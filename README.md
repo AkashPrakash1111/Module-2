@@ -1,8 +1,8 @@
 # Built-in Functions -Binary Conversion Using Built-in Functions in Python
 
-NAME: Swetha K
+NAME: AKASH PRAKASH
 
-REG NO: 212224230284
+REG NO: 212224240008
 
 ### 🎯 Aim
 To write a Python program to convert the number 16 into its binary representation using built-in Python functions.
